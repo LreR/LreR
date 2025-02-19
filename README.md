@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fonepage.nownews.com%2Fnews%2F1002423&psig=AOvVaw1XXiMm1NGwhrZj7Ymt8dYV&ust=1740053350935000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiEpv7Zz4sDFQAAAAAdAAAAABAE)
+![](https://github.com/LreR/LreR/blob/main/imnoob)
 <!--
 **LreR/LreR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
